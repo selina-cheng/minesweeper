@@ -9,8 +9,8 @@ win = pygame.display.set_mode((WIDTH,HEIGHT))
 pygame.display.set_caption("Minesweeper")
 
 BG_COLOR = (255,255,255)
-ROWS, COLS = 10,10
-MINES = 15
+ROWS, COLS = 20,20
+MINES = 75
 SIZE = WIDTH / ROWS
 
 NUM_FONT = pygame.font.SysFont("verdana", 25, True)
