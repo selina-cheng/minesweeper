@@ -1,2 +1,3 @@
-# minesweeper
-learning pygame with my favorite game minesweeper
+# Minesweeper
+
+Practicing PyGame by creating my favorite game, Minesweeper.
